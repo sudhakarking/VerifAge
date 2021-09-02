@@ -1,0 +1,10 @@
+POST https://centralindia.api.cognitive.microsoft.com/face/v1.0/persongroups/sudhakarpersongroup/persons HTTP/1.1
+Host: centralindia.api.cognitive.microsoft.com
+Content-Type: application/json
+Ocp-Apim-Subscription-Key: ••••••••••••••••••••••••••••••••
+
+{
+    "name": "Sudhakar",
+    "userData": "Sudhakar's Image 1"
+}
+
