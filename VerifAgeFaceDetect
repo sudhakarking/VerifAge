@@ -1,0 +1,8 @@
+POST https://centralindia.api.cognitive.microsoft.com/face/v1.0/detect?returnFaceId=true&returnFaceLandmarks=false&returnFaceAttributes=age&recognitionModel=recognition_04&returnRecognitionModel=false&detectionModel=detection_01&faceIdTimeToLive=86400 HTTP/1.1
+Host: centralindia.api.cognitive.microsoft.com
+Content-Type: application/json
+Ocp-Apim-Subscription-Key: ••••••••••••••••••••••••••••••••
+
+{
+    "url": "http://example.com/1.jpg"
+}
