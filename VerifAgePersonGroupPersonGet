@@ -1,0 +1,3 @@
+GET https://centralindia.api.cognitive.microsoft.com/face/v1.0/persongroups/sudhakarpersongroup/persons/65533621-e648-4079-9d71-2c31dc862e1b HTTP/1.1
+Host: centralindia.api.cognitive.microsoft.com
+Ocp-Apim-Subscription-Key: ••••••••••••••••••••••••••••••••
