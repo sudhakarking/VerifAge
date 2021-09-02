@@ -1,0 +1,3 @@
+DELETE https://centralindia.api.cognitive.microsoft.com/face/v1.0/persongroups/sudhakarpersongroup/persons/65533621-e648-4079-9d71-2c31dc862e1b/persistedFaces/f8c9ba40-e732-4cef-b268-40dda56a33e2 HTTP/1.1
+Host: centralindia.api.cognitive.microsoft.com
+Ocp-Apim-Subscription-Key: ••••••••••••••••••••••••••••••••
