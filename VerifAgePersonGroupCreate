@@ -1,7 +1,7 @@
 PUT https://centralindia.api.cognitive.microsoft.com/face/v1.0/persongroups/sudhakarpersongroup HTTP/1.1
 Host: centralindia.api.cognitive.microsoft.com
 Content-Type: application/json
-Ocp-Apim-Subscription-Key: 39a9432d096c44c9b5774e985cfdb2b1
+Ocp-Apim-Subscription-Key: ••••••••••••••••••••••••••••••••
 
 {
     "name": "SudhakarGroup",
