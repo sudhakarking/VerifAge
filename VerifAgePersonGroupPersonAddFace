@@ -1,0 +1,9 @@
+POST https://centralindia.api.cognitive.microsoft.com/face/v1.0/persongroups/sudhakarpersongroup/persons/65533621-e648-4079-9d71-2c31dc862e1b/persistedFaces?detectionModel=detection_03 HTTP/1.1
+Host: centralindia.api.cognitive.microsoft.com
+Content-Type: application/json
+Ocp-Apim-Subscription-Key: ••••••••••••••••••••••••••••••••
+
+{
+    "url": "http://example.com/2.jpg"
+}
+
