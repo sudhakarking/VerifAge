@@ -1,0 +1,3 @@
+POST https://centralindia.api.cognitive.microsoft.com/face/v1.0/persongroups/sudhakarpersongroup/train HTTP/1.1
+Host: centralindia.api.cognitive.microsoft.com
+Ocp-Apim-Subscription-Key: ••••••••••••••••••••••••••••••••
